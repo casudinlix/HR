@@ -1,0 +1,287 @@
+ERROR - 2019-04-08 20:11:41 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:11:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:11:50 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:11:50 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:11:51 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:11:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:18:26 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:18:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:19:49 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:19:49 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:49 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:19:59 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:19:59 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:00 --> Severity: Warning --> number_format() expects parameter 1 to be double, string given /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:20:24 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:20:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:21:27 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:21:27 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:21:27 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:21:27 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:21:27 --> Severity: Notice --> A non well formed numeric value encountered /home/casudin/public_html/mii/app/controllers/admin/Payroll.php 1839
+ERROR - 2019-04-08 20:22:19 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-04-08 20:22:19 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21

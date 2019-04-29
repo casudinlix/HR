@@ -1,0 +1,22 @@
+ERROR - 2019-03-22 20:11:21 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:33 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:33 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:46 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:46 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:11:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:26:08 --> Severity: Notice --> Undefined variable: all_companies /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-03-22 20:26:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/payroll/generate_payslip.php 21
+ERROR - 2019-03-22 20:29:56 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:29:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:06 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:06 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:24 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:24 --> Severity: Notice --> Undefined variable: get_all_companies /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47
+ERROR - 2019-03-22 20:30:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/casudin/public_html/mii/app/views/admin/reports/employee_attendance.php 47

@@ -1,0 +1,35 @@
+SELECT xin_leave_applications.leave_id,xin_leave_applications.employee_id,xin_leave_applications.from_date,xin_leave_applications.to_date, xin_leave_applications.total_days,xin_leave_type.leave_type_id,xin_leave_type.created_at as periode, xin_leave_type.type_name,xin_leave_type.days_per_year,
+xin_leave_type.days_per_year-xin_leave_applications.total_days as sisa,xin_leave_applications.status
+FROM xin_leave_applications INNER JOIN xin_leave_type on(xin_leave_type.leave_type_id=xin_leave_applications.leave_type_id)
+
+shift
+SELECT xin_employee_shift.emp_shift_id,xin_employee_shift.shift_date,xin_employee_shift.employee_id,xin_employee_shift.shift_id,xin_employee_shift.total_days,xin_employee_shift.status
+,xin_employee_shift.bulan,xin_office_shift.* from xin_employee_shift
+INNER JOIN xin_office_shift on(xin_office_shift.office_shift_id=xin_employee_shift.shift_id)
+
+pulang awal
+SELECT xin_attendance_time.attendance_date,xin_attendance_time.employee_id,xin_attendance_time.time_attendance_id,xin_attendance_time.clock_in,xin_employee_shift.bulan,xin_employee_shift.shift_date,xin_office_shift.monday_in_time,xin_office_shift.monday_out_time,
+  TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time) AS selisih,
+  HOUR(TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time)) AS jam,
+  MINUTE(TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time)) AS menit,
+  SECOND(TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time)) AS detik,
+  attendance_status
+FROM 
+  xin_attendance_time LEFT JOIN xin_employee_shift on(xin_employee_shift.shift_id=xin_attendance_time.shift_id) INNER JOIN
+  xin_office_shift on(xin_office_shift.office_shift_id=xin_attendance_time.shift_id)
+
+  pulang cepat
+  SELECT xin_attendance_time.attendance_date,xin_attendance_time.employee_id,xin_attendance_time.time_attendance_id,xin_attendance_time.clock_in,xin_employee_shift.bulan,xin_employee_shift.shift_date,xin_office_shift.monday_in_time,xin_office_shift.monday_out_time,
+  TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time) AS selisih,
+  HOUR(TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time)) AS jam,
+  MINUTE(TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time)) AS menit,
+  SECOND(TIMEDIFF(TIME(xin_attendance_time.clock_in),xin_office_shift.monday_in_time)) AS detik,
+  attendance_status
+FROM 
+  xin_attendance_time LEFT JOIN xin_employee_shift on(xin_employee_shift.shift_id=xin_attendance_time.shift_id) INNER JOIN
+  xin_office_shift on(xin_office_shift.office_shift_id=xin_attendance_time.shift_id)
+
+
+  ---------note
+  upload absen di hari libur otomatis terbaca libur walau ada datanya.
+  

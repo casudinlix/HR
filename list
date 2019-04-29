@@ -1,0 +1,37 @@
+SELECT attendance_date,employee_id,time_attendance_id,
+  TIMEDIFF(TIME(clock_in),"07:00:00") AS selisih,
+  HOUR(TIMEDIFF(TIME(clock_in),"07:00")) AS jam,
+  MINUTE(TIMEDIFF(TIME(clock_in),"07:00:00")) AS menit,
+  SECOND(TIMEDIFF(TIME(clock_in),"07:00:00")) AS detik,
+  attendance_status
+FROM 
+  xin_attendance_time WHERE attendance_date LIKE "2019-02%"
+
+  --------
+  SELECT xin_attendance_time.time_attendance_id,xin_attendance_time.employee_id,view_shift.shift_date,view_shift.bulan,view_shift.office_shift_id,view_shift.monday_in_time,view_shift.monday_out_time,
+  TIMEDIFF(TIME(xin_attendance_time.clock_in),view_shift.monday_in_time) AS selisih,
+  HOUR(TIMEDIFF(TIME(xin_attendance_time.clock_in),view_shift.monday_in_time)) AS jam,
+  MINUTE(TIMEDIFF(TIME(xin_attendance_time.clock_in),view_shift.monday_in_time)) AS menit,
+  SECOND(TIMEDIFF(TIME(xin_attendance_time.clock_in),view_shift.monday_in_time)) AS detik,
+  attendance_status
+FROM 
+  xin_attendance_time LEFT JOIN view_shift on(xin_attendance_time.employee_id=view_shift.employee_id)
+  ---------
+-------
+SELECT attendance_date,employee_id,time_attendance_id,
+  TIMEDIFF(TIME(shift_in),clock_in) AS selisih,
+  HOUR(TIMEDIFF(TIME(shift_in),clock_in)) AS jam,
+  MINUTE(TIMEDIFF(TIME(shift_in),clock_in)) AS menit,
+  SECOND(TIMEDIFF(TIME(shift_in),clock_in)) AS detik,
+  attendance_status
+FROM 
+  xin_attendance_time
+-------
+
+  1.absensi hapus falidasi mundur 3 hari maju 3 hari , tambah by matakuliah - sisi dosen
+  2.tambahan  report absen bulanan by matakuliah
+3. penambahan BAP sisi dosen
+4.ujian onlen / coba fitur duplikat soal
+5. Anjungan
+damar2575@gmail.com 
+nanangkurnianto@ymail.com 
